@@ -16,5 +16,5 @@ const urls = [
 	'https://forms.gle/gxbXwDXEx4JpQS4L7',
 	'https://forms.gle/sFyX7HADnMgUM9Uq6',
 	'https://forms.gle/kxhFT71cbb39dngZ9',
-	'https://forms.gle/ky4AWAeiuiEFpziJ6 '
+	'https://forms.gle/ky4AWAeiuiEFpziJ6'
 ];
